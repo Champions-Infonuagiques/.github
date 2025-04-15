@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bienvenue aux Champions infonuagiques 👋
+
+Vous trouverez ici des répertoires d'apprentissages afin de découvrir les rudiments de l'infonuagique et de ses technologies.
 
 <!--
 
